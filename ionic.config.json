@@ -1,0 +1,7 @@
+{
+  "name": "brightness-control",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
